@@ -1,0 +1,28 @@
+1.王喜欢和日本人 sm
+u1: untracked 
+u2:unmodify
+m:modify 
+s:staged
+r:repository 
+
+place:
+work -> stage -> remote
+work:u1 u2 m     				->   	add commit restore rm mv status amend  merge
+stage:s 						-> 		checkout  reset  branch  diff log 
+remote: remote repository 		-> 		remote add  show  remove | pull push clone fetch checkout
+
+wps 卖给了日本人
+io: add commit restore 
+operator: rm mv amend merge 
+我work 的时候最喜欢 ios  自动(ac)人 去操作 a(一个) 日本 mm
+
+一个女人s 人control 了数据库 d b 
+
+ 一个日本机器人在演讲 as 一个人 推人也不是 拉人也不是 我只能玩 computer游戏 cf 
+1.如何在本地新建远程仓库
+2.如何让本地的仓库追踪远程仓库
+checkout branch
+
+
+
+王喜欢和日本女人 sm 没有钱最后卖掉了 wps
